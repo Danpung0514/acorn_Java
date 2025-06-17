@@ -23,6 +23,6 @@ public class MainClass05 {
 		boolean isRun=true;
 		// 변수 안에 참조값이 들어가는 참조 데이터 type 인 String
 		String yourName="해골";
-		// String. 으로 접근할 수 있는 매소드가 보인다. 
+		// String. 으로 접근할 수 있는 매소드가 보인다.
 	}
 }
