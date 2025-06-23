@@ -23,6 +23,8 @@ public class MainClass10 {
 		m3.name="호올스";
 		m3.addr="GS25 진열대";
 		
+		
+		
 		m1.printData();
 		m2.printData();
 		m3.printData();
